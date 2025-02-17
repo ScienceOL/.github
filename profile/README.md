@@ -15,7 +15,7 @@ Empowering your Science dreams with Science OL
 
 ### 👋🏻 Welcome to ScienceOL®
 
-We are a group of e/acc design-engineers, hoping to provide modern and intelligent experience for Laboratory, and creating a technology-driven forum, fostering knowledge interaction and the exchange of ideas that may culminate in mutual inspiration and collaborative innovation.
+We are a group of laboratory researchers, hoping to provide modern and intelligent experience for Laboratory, and creating a technology-driven forum, fostering knowledge interaction and the exchange of ideas that may culminate in mutual inspiration and collaborative innovation.
 
 By adopting the Bootstrapping approach, we aim to provide researchers, developers and users with a more open, transparent, and user-friendly product laboratory.
 
