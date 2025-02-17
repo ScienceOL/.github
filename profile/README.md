@@ -2,7 +2,10 @@
 
 <div align="center">
 
-<img src="https://github.com/ScienceOL/sciol-design/blob/main/logo/bg-normal-logo-shadow.png?raw=true" alt="Science Online® Banner" style="width: 100%; max-width: 1920px;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ScienceOL/sciol-design/b52742911209986a307539713c9f5761a0a745b6/logo/BLogo-dark.svg">
+  <img height="90" src="https://raw.githubusercontent.com/ScienceOL/sciol-design/b52742911209986a307539713c9f5761a0a745b6/logo/BLogo-light.svg">
+</picture>
 
 Empowering your Science dreams with Science OL
 
