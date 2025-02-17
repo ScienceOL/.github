@@ -2,12 +2,14 @@
 
 <div align="center">
 
-<picture>
+<picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ScienceOL/sciol-design/b52742911209986a307539713c9f5761a0a745b6/logo/BLogo-dark.svg">
   <img height="90" src="https://raw.githubusercontent.com/ScienceOL/sciol-design/b52742911209986a307539713c9f5761a0a745b6/logo/BLogo-light.svg">
 </picture>
 
-Empowering your Science dreams with Science OL
+
+
+*Empowering your Science dreams with Science OL*
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
