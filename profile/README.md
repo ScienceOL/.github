@@ -24,4 +24,4 @@ By adopting the Bootstrapping approach, we aim to provide researchers, developer
 Whether for users or professional developers, ScienceOL will be your Science Agent playground.
 
 > \[!IMPORTANT]
-> Science OpenLab is currently in `Public Beta`. to start a [Free Trial](https://scienceol.tech) with **450,000** Credits.
+> Science OpenLab is currently in `Public Beta`. to start a [Free Trial](https://scienceol.tech).
