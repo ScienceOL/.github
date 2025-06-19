@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
-<picture >
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ScienceOL/sciol-design/raw/main/banner/banner-1.png" alt="Banner">
-  <img height="90" src="https://github.com/ScienceOL/sciol-design/raw/main/banner/banner-1.png" alt="Banner">
+  <img width="100%" src="https://github.com/ScienceOL/sciol-design/raw/main/banner/banner-2.png" alt="Banner">
 </picture>
 
 <div align="center">
