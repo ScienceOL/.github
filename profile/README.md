@@ -2,8 +2,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ScienceOL/sciol-design/raw/main/banner/banner-1.png" alt="Banner">
-  <img width="100%" style="aspect-ratio: 25/9; object-fit: fill; border-radius: 12px;" src="https://github.com/ScienceOL/sciol-design/raw/main/banner/banner-1.png" alt="Banner">
+  <img width="100%" src="https://github.com/ScienceOL/sciol-design/raw/main/banner/banner-1.png" alt="Banner">
 </picture>
+
+<br/>
 
 <div align="center">
 
@@ -12,7 +14,7 @@
   <img height="90" src="https://raw.githubusercontent.com/ScienceOL/sciol-design/b52742911209986a307539713c9f5761a0a745b6/logo/BLogo-light.svg">
 </picture>
 
-_Empowering your Science dreams with Science OL_
+_Empowering your Science dreams with Science OL(Online)_
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
