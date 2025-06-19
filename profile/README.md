@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
 <picture >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ScienceOL/sciol-design/b52742911209986a307539713c9f5761a0a745b6/banner/banner-1.png">
-  <img height="90" src="https://raw.githubusercontent.com/ScienceOL/sciol-design/b52742911209986a307539713c9f5761a0a745b6/banner/banner-1.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ScienceOL/sciol-design/raw/main/banner/banner-1.png" alt="Banner">
+  <img height="90" src="https://github.com/ScienceOL/sciol-design/raw/main/banner/banner-1.png" alt="Banner">
 </picture>
 
 <div align="center">
