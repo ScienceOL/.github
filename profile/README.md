@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ScienceOL/sciol-design/raw/main/banner/banner-2.png" alt="Banner">
-  <img width="100%" style="aspect-ratio: 25/9; object-fit: auto; border-radius: 12px;" src="https://github.com/ScienceOL/sciol-design/raw/main/banner/banner-2.png" alt="Banner">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ScienceOL/sciol-design/raw/main/banner/banner-1.png" alt="Banner">
+  <img width="100%" style="aspect-ratio: 25/9; object-fit: fill; border-radius: 12px;" src="https://github.com/ScienceOL/sciol-design/raw/main/banner/banner-1.png" alt="Banner">
 </picture>
 
 <div align="center">
